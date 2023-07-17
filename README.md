@@ -33,6 +33,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Link to walkthrough video
 
+https://drive.google.com/file/d/1cKZqaUZqE8w8rLS9FMwyBroVcuNYTl07/view?usp=sharing
+
 ## Resources
 
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
