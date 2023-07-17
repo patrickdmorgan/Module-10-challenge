@@ -34,7 +34,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Link to walkthrough video
 
 ## Resources
+
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+
 https://marketplace.visualstudio.com/items?itemName=jock.svg
 
 
